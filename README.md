@@ -32,22 +32,3 @@ Want to learn more about our innovative solutions? Let's connect!
 
 
 ---
-
-Telemonit - Remote Supervision
-
-Innovative security solutions bridging technology and human interaction.
-
-• Voice-enabled camera systems
-• Instant incident notifications
-• Comprehensive security management
-• Legal support for incidents
-• Universal integration with existing systems
-
-Our apps:
-- CameraMonit: Quick alerts & messaging integration
-- Teleoperator: Service dispatch & legal case management
-- CameraMind: Universal camera system integration
-
-Telemonit: The Voice of Security
-
-#IntelligentSecurity #VoiceInteraction #RemoteSupervision
